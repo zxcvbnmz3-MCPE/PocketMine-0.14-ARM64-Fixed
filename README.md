@@ -19,7 +19,7 @@ pkg install git tar -y
 ### Step 2: Clone the Repository
 Download the entire project from GitHub to your local storage:
 ```bash
-git clone [https://github.com/zxcvbnmz3-MCPE/PocketMine-0.14-ARM64-Fixed.git](https://github.com/zxcvbnmz3-MCPE/PocketMine-0.14-ARM64-Fixed.git)
+git clone https://github.com/zxcvbnmz3-MCPE/PocketMine-0.14-ARM64-Fixed.git
 ```
 
 ### Step 3: Navigate into the Project Folder
